@@ -1,0 +1,1137 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <meta name="ProgId" content="Excel.Sheet"/>
+  <meta name="Generator" content="WPS Office ET"/>
+  <!--[if gte mso 9]>
+   <xml>
+    <o:DocumentProperties>
+     <o:Author>Administrator</o:Author>
+     <o:Created>2018-01-10T16:55:00</o:Created>
+     <o:LastAuthor>天海</o:LastAuthor>
+     <o:LastSaved>2018-01-29T22:34:07</o:LastSaved>
+    </o:DocumentProperties>
+    <o:CustomDocumentProperties>
+     <o:KSOProductBuildVer dt:dt="string">2052-10.1.0.7106</o:KSOProductBuildVer>
+    </o:CustomDocumentProperties>
+   </xml>
+  <![endif]-->
+  <style>
+<!-- @page
+	{margin:0.63in 0.55in 0.63in 0.55in;
+	mso-header-margin:0.51in;
+	mso-footer-margin:0.51in;
+	mso-page-orientation:landscape;}
+tr
+	{mso-height-source:auto;
+	mso-ruby-visibility:none;}
+col
+	{mso-width-source:auto;
+	mso-ruby-visibility:none;}
+br
+	{mso-data-placement:same-cell;}
+.font0
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font1
+	{color:#000000;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font2
+	{color:#000000;
+	font-size:16.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font3
+	{color:#7F7F7F;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font4
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font5
+	{color:#800080;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font6
+	{color:#9C0006;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font7
+	{color:#3F3F3F;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font8
+	{color:#44546A;
+	font-size:15.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font9
+	{color:#3F3F76;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font10
+	{color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font11
+	{color:#44546A;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font12
+	{color:#FF0000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font13
+	{color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font14
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font15
+	{color:#44546A;
+	font-size:18.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font16
+	{color:#0000FF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font17
+	{color:#9C6500;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font18
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font19
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font20
+	{color:#006100;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.style0
+	{mso-number-format:"General";
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-pattern:auto;
+	mso-background-source:auto;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:"常规";
+	mso-style-id:0;}
+.style16
+	{mso-number-format:"_ \0022\00A5\0022* \#\,\#\#0_ \;_ \0022\00A5\0022* \\-\#\,\#\#0_ \;_ \0022\00A5\0022* \0022-\0022_ \;_ \@_ ";
+	mso-style-name:"货币[0]";
+	mso-style-id:7;}
+.style17
+	{mso-pattern:auto none;
+	background:#EDEDED;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"20% - 强调文字颜色 3";}
+.style18
+	{mso-pattern:auto none;
+	background:#FFCC99;
+	color:#3F3F76;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:.5pt solid #7F7F7F;
+	mso-style-name:"输入";}
+.style19
+	{mso-number-format:"_ \0022\00A5\0022* \#\,\#\#0\.00_ \;_ \0022\00A5\0022* \\-\#\,\#\#0\.00_ \;_ \0022\00A5\0022* \0022-\0022??_ \;_ \@_ ";
+	mso-style-name:"货币";
+	mso-style-id:4;}
+.style20
+	{mso-number-format:"_ * \#\,\#\#0_ \;_ * \\-\#\,\#\#0_ \;_ * \0022-\0022_ \;_ \@_ ";
+	mso-style-name:"千位分隔[0]";
+	mso-style-id:6;}
+.style21
+	{mso-pattern:auto none;
+	background:#DBDBDB;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"40% - 强调文字颜色 3";}
+.style22
+	{mso-pattern:auto none;
+	background:#FFC7CE;
+	color:#9C0006;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"差";}
+.style23
+	{mso-number-format:"_ * \#\,\#\#0\.00_ \;_ * \\-\#\,\#\#0\.00_ \;_ * \0022-\0022??_ \;_ \@_ ";
+	mso-style-name:"千位分隔";
+	mso-style-id:3;}
+.style24
+	{mso-pattern:auto none;
+	background:#C9C9C9;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"60% - 强调文字颜色 3";}
+.style25
+	{color:#0000FF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"超链接";
+	mso-style-id:8;}
+.style26
+	{mso-number-format:"0%";
+	mso-style-name:"百分比";
+	mso-style-id:5;}
+.style27
+	{color:#800080;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"已访问的超链接";
+	mso-style-id:9;}
+.style28
+	{mso-pattern:auto none;
+	background:#FFFFCC;
+	border:.5pt solid #B2B2B2;
+	mso-style-name:"注释";}
+.style29
+	{mso-pattern:auto none;
+	background:#F4B084;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"60% - 强调文字颜色 2";}
+.style30
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"标题 4";}
+.style31
+	{color:#FF0000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"警告文本";}
+.style32
+	{color:#44546A;
+	font-size:18.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"标题";}
+.style33
+	{color:#7F7F7F;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"解释性文本";}
+.style34
+	{color:#44546A;
+	font-size:15.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-left:none;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.0pt solid #5B9BD5;
+	mso-style-name:"标题 1";}
+.style35
+	{color:#44546A;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-left:none;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.0pt solid #5B9BD5;
+	mso-style-name:"标题 2";}
+.style36
+	{mso-pattern:auto none;
+	background:#9BC2E6;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"60% - 强调文字颜色 1";}
+.style37
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-left:none;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.0pt solid #ACCCEA;
+	mso-style-name:"标题 3";}
+.style38
+	{mso-pattern:auto none;
+	background:#FFD966;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"60% - 强调文字颜色 4";}
+.style39
+	{mso-pattern:auto none;
+	background:#F2F2F2;
+	color:#3F3F3F;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:.5pt solid #3F3F3F;
+	mso-style-name:"输出";}
+.style40
+	{mso-pattern:auto none;
+	background:#F2F2F2;
+	color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:.5pt solid #7F7F7F;
+	mso-style-name:"计算";}
+.style41
+	{mso-pattern:auto none;
+	background:#A5A5A5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:2.0pt double #3F3F3F;
+	mso-style-name:"检查单元格";}
+.style42
+	{mso-pattern:auto none;
+	background:#E2EFDA;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"20% - 强调文字颜色 6";}
+.style43
+	{mso-pattern:auto none;
+	background:#ED7D31;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"强调文字颜色 2";}
+.style44
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-left:none;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double #FF8001;
+	mso-style-name:"链接单元格";}
+.style45
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-left:none;
+	border-top:.5pt solid #5B9BD5;
+	border-right:none;
+	border-bottom:2.0pt double #5B9BD5;
+	mso-style-name:"汇总";}
+.style46
+	{mso-pattern:auto none;
+	background:#C6EFCE;
+	color:#006100;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"好";}
+.style47
+	{mso-pattern:auto none;
+	background:#FFEB9C;
+	color:#9C6500;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"适中";}
+.style48
+	{mso-pattern:auto none;
+	background:#D9E1F2;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"20% - 强调文字颜色 5";}
+.style49
+	{mso-pattern:auto none;
+	background:#5B9BD5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"强调文字颜色 1";}
+.style50
+	{mso-pattern:auto none;
+	background:#DDEBF7;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"20% - 强调文字颜色 1";}
+.style51
+	{mso-pattern:auto none;
+	background:#BDD7EE;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"40% - 强调文字颜色 1";}
+.style52
+	{mso-pattern:auto none;
+	background:#FCE4D6;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"20% - 强调文字颜色 2";}
+.style53
+	{mso-pattern:auto none;
+	background:#F8CBAD;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"40% - 强调文字颜色 2";}
+.style54
+	{mso-pattern:auto none;
+	background:#A5A5A5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"强调文字颜色 3";}
+.style55
+	{mso-pattern:auto none;
+	background:#FFC000;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"强调文字颜色 4";}
+.style56
+	{mso-pattern:auto none;
+	background:#FFF2CC;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"20% - 强调文字颜色 4";}
+.style57
+	{mso-pattern:auto none;
+	background:#FFE699;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"40% - 强调文字颜色 4";}
+.style58
+	{mso-pattern:auto none;
+	background:#4472C4;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"强调文字颜色 5";}
+.style59
+	{mso-pattern:auto none;
+	background:#B4C6E7;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"40% - 强调文字颜色 5";}
+.style60
+	{mso-pattern:auto none;
+	background:#8EA9DB;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"60% - 强调文字颜色 5";}
+.style61
+	{mso-pattern:auto none;
+	background:#70AD47;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"强调文字颜色 6";}
+.style62
+	{mso-pattern:auto none;
+	background:#C6E0B4;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"40% - 强调文字颜色 6";}
+.style63
+	{mso-pattern:auto none;
+	background:#A9D08E;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"60% - 强调文字颜色 6";}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	mso-number-format:"General";
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-pattern:auto;
+	mso-background-source:auto;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;}
+.xl65
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	font-size:12.0pt;
+	font-weight:700;
+	mso-font-charset:134;}
+.xl66
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	mso-font-charset:134;}
+.xl67
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	font-size:16.0pt;
+	mso-font-charset:134;
+	border-left:.5pt solid windowtext;}
+.xl68
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	font-size:16.0pt;
+	mso-font-charset:134;}
+.xl69
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	font-size:12.0pt;
+	font-weight:700;
+	mso-font-charset:134;
+	border-left:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;}
+.xl70
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	font-size:12.0pt;
+	font-weight:700;
+	mso-font-charset:134;
+	border-left:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;}
+.xl71
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	mso-font-charset:134;
+	border:.5pt solid windowtext;}
+.xl72
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	mso-pattern:auto none;
+	background:#FFFF00;
+	mso-font-charset:134;
+	border:.5pt solid windowtext;}
+.xl73
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	mso-font-charset:134;
+	border:.5pt solid windowtext;}
+.xl74
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	mso-pattern:auto none;
+	background:#FFFF00;
+	mso-font-charset:134;
+	border:.5pt solid windowtext;}
+.xl75
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	mso-font-charset:134;
+	border-left:.5pt solid windowtext;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;}
+.xl76
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	mso-font-charset:134;
+	border-left:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;}
+.xl77
+	{mso-style-parent:style0;
+	text-align:left;
+	white-space:normal;
+	mso-pattern:auto none;
+	background:#FFFF00;
+	mso-font-charset:134;
+	border:.5pt solid windowtext;}
+ -->  </style>
+  <!--[if gte mso 9]>
+   <xml>
+    <x:ExcelWorkbook>
+     <x:ExcelWorksheets>
+      <x:ExcelWorksheet>
+       <x:Name>Sheet1</x:Name>
+       <x:WorksheetOptions>
+        <x:DefaultRowHeight>540</x:DefaultRowHeight>
+        <x:Unsynced/>
+        <x:StandardWidth>3840</x:StandardWidth>
+        <x:Selected/>
+        <x:TopRowVisible>15</x:TopRowVisible>
+        <x:Panes>
+         <x:Pane>
+          <x:Number>3</x:Number>
+          <x:ActiveCol>0</x:ActiveCol>
+          <x:ActiveRow>16</x:ActiveRow>
+          <x:RangeSelection>A17:A21</x:RangeSelection>
+         </x:Pane>
+        </x:Panes>
+        <x:ProtectContents>False</x:ProtectContents>
+        <x:ProtectObjects>False</x:ProtectObjects>
+        <x:ProtectScenarios>False</x:ProtectScenarios>
+        <x:PageBreakZoom>100</x:PageBreakZoom>
+        <x:Print>
+         <x:ValidPrinterInfo/>
+         <x:PaperSizeIndex>9</x:PaperSizeIndex>
+         <x:Scale>90</x:Scale>
+         <x:HorizontalResolution>600</x:HorizontalResolution>
+        </x:Print>
+       </x:WorksheetOptions>
+      </x:ExcelWorksheet>
+     </x:ExcelWorksheets>
+     <x:ProtectStructure>False</x:ProtectStructure>
+     <x:ProtectWindows>False</x:ProtectWindows>
+     <x:WindowHeight>8370</x:WindowHeight>
+     <x:WindowWidth>20385</x:WindowWidth>
+    </x:ExcelWorkbook>
+   </xml>
+  <![endif]-->
+ </head>
+ <body link="blue" vlink="purple" class="xl66">
+  <table width="892" border="0" cellpadding="0" cellspacing="0" style='width:669.00pt;border-collapse:collapse;table-layout:fixed;'>
+   <col width="135" class="xl66" style='mso-width-source:userset;mso-width-alt:4320;'/>
+   <col width="151" class="xl66" style='mso-width-source:userset;mso-width-alt:4832;'/>
+   <col width="290" class="xl66" style='mso-width-source:userset;mso-width-alt:9280;'/>
+   <col width="80" class="xl66" style='mso-width-source:userset;mso-width-alt:2560;'/>
+   <col width="111" class="xl66" style='mso-width-source:userset;mso-width-alt:3552;'/>
+   <col width="125" class="xl66" style='mso-width-source:userset;mso-width-alt:4000;'/>
+   <col width="120" span="249" class="xl66" style='mso-width-source:userset;mso-width-alt:3840;'/>
+   <col width="120" class="xl66" style='mso-width-source:userset;mso-width-alt:3840;'/>
+   <tr height="68" style='height:51.00pt;mso-height-source:userset;mso-height-alt:1020;'>
+    <td class="xl67" height="68" width="892" colspan="6" style='height:51.00pt;width:669.00pt;border-right:none;border-bottom:none;' x:str>需购买的电器类设备</td>
+   </tr>
+   <tr height="45.33" class="xl65" style='height:34.00pt;mso-height-source:userset;mso-height-alt:680;'>
+    <td class="xl69" height="45.33" style='height:34.00pt;' x:str>申购部门</td>
+    <td class="xl69" x:str>设备名称</td>
+    <td class="xl69" x:str>型号</td>
+    <td class="xl69" x:str>数量</td>
+    <td class="xl69" x:str>单价</td>
+    <td class="xl70" x:str>总价</td>
+   </tr>
+   <tr height="69.33" style='height:52.00pt;mso-height-source:userset;mso-height-alt:1040;'>
+    <td class="xl71" height="425.33" rowspan="6" style='height:319.00pt;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>GX运营中心</td>
+    <td class="xl71" x:str>台式电脑</td>
+    <td class="xl72" x:str>联想天逸510PRO I5-7400/4G内存/1TB硬盘/2G独显/WIFI【19.5LED屏】<br/></td>
+    <td class="xl71" x:str>12台</td>
+    <td class="xl71"></td>
+    <td class="xl73"></td>
+   </tr>
+   <tr height="69.33" style='height:52.00pt;mso-height-source:userset;mso-height-alt:1040;'>
+    <td class="xl71" x:str>小打印</td>
+    <td class="xl74" x:str>惠普M126NW 无线WIFI打印<span style='mso-spacerun:yes;'>&nbsp;</span></td>
+    <td class="xl71" x:str>4台</td>
+    <td class="xl71"></td>
+    <td class="xl73"></td>
+   </tr>
+   <tr height="69.33" style='height:52.00pt;mso-height-source:userset;mso-height-alt:1040;'>
+    <td class="xl71" x:str>投影仪</td>
+    <td class="xl72" x:str>benq明基投影仪 MH534 1920x1080dpi MH534 含100英寸投影幕</td>
+    <td class="xl71" x:str>1套</td>
+    <td class="xl71"></td>
+    <td class="xl73"></td>
+   </tr>
+   <tr height="69.33" style='height:52.00pt;mso-height-source:userset;mso-height-alt:1040;'>
+    <td class="xl71" x:str>彩色打印机</td>
+    <td class="xl74" x:str>佳能G3800 无线网络打印</td>
+    <td class="xl71" x:str>1台</td>
+    <td class="xl71"></td>
+    <td class="xl73"></td>
+   </tr>
+   <tr height="69.33" style='height:52.00pt;mso-height-source:userset;mso-height-alt:1040;'>
+    <td class="xl71" x:str>验钞机</td>
+    <td class="xl74"></td>
+    <td class="xl71" x:str>4台</td>
+    <td class="xl71"></td>
+    <td class="xl73"></td>
+   </tr>
+   <tr height="78.67" style='height:59.00pt;mso-height-source:userset;mso-height-alt:1180;'>
+    <td class="xl71" x:str>保险柜</td>
+    <td class="xl74"></td>
+    <td class="xl71" x:str>1台</td>
+    <td class="xl71"></td>
+    <td class="xl73"></td>
+   </tr>
+   <tr height="78.67" style='height:59.00pt;mso-height-source:userset;mso-height-alt:1180;'>
+    <td class="xl75" height="550.67" rowspan="7" style='height:413.00pt;border-right:.5pt solid windowtext;border-bottom:none;' x:str>WD运营中心</td>
+    <td class="xl71" x:str>台式电脑</td>
+    <td class="xl72" x:str>联想天逸510PRO I5-7400/4G内存/1TB硬盘/2G独显/WIFI【19.5LED屏】<br/></td>
+    <td class="xl71" x:str>21台</td>
+    <td class="xl71"></td>
+    <td class="xl73"></td>
+   </tr>
+   <tr height="78.67" style='height:59.00pt;mso-height-source:userset;mso-height-alt:1180;'>
+    <td class="xl71" x:str>小打印机</td>
+    <td class="xl74" x:str>惠普M126NW 无线WIFI打印<span style='mso-spacerun:yes;'>&nbsp;</span></td>
+    <td class="xl71" x:str>2台</td>
+    <td class="xl71"></td>
+    <td class="xl73"></td>
+   </tr>
+   <tr height="78.67" style='height:59.00pt;mso-height-source:userset;mso-height-alt:1180;'>
+    <td class="xl71" x:str>小打印</td>
+    <td class="xl74" x:str>惠普M126NW 无线WIFI打印<span style='mso-spacerun:yes;'>&nbsp;</span></td>
+    <td class="xl71" x:str>2台</td>
+    <td class="xl71"></td>
+    <td class="xl73"></td>
+   </tr>
+   <tr height="78.67" style='height:59.00pt;mso-height-source:userset;mso-height-alt:1180;'>
+    <td class="xl71" x:str>大打印机</td>
+    <td class="xl74" x:str>HP惠普M227fdw</td>
+    <td class="xl71" x:str>1台</td>
+    <td class="xl71"></td>
+    <td class="xl73"></td>
+   </tr>
+   <tr height="78.67" style='height:59.00pt;mso-height-source:userset;mso-height-alt:1180;'>
+    <td class="xl71" x:str>饮水机</td>
+    <td class="xl72" x:str>立式</td>
+    <td class="xl71" x:str>14台</td>
+    <td class="xl71"></td>
+    <td class="xl73"></td>
+   </tr>
+   <tr height="78.67" style='height:59.00pt;mso-height-source:userset;mso-height-alt:1180;'>
+    <td class="xl71" x:str>电视机60&quot;</td>
+    <td class="xl72" x:str>液晶</td>
+    <td class="xl71" x:str>2台</td>
+    <td class="xl71"></td>
+    <td class="xl73"></td>
+   </tr>
+   <tr height="78.67" style='height:59.00pt;mso-height-source:userset;mso-height-alt:1180;'>
+    <td class="xl71" x:str>验钞机</td>
+    <td class="xl72"></td>
+    <td class="xl71" x:str>25台</td>
+    <td class="xl71"></td>
+    <td class="xl73"></td>
+   </tr>
+   <tr height="78.67" style='height:59.00pt;mso-height-source:userset;mso-height-alt:1180;'>
+    <td class="xl71" height="78.67" style='height:59.00pt;' x:str>总部市场营销部</td>
+    <td class="xl71" x:str>无人机</td>
+    <td class="xl72" x:str>DJI大疆精灵Phantom 4Pro</td>
+    <td class="xl71" x:str>1台</td>
+    <td class="xl71"></td>
+    <td class="xl73"></td>
+   </tr>
+   <tr height="97.33" style='height:73.00pt;mso-height-source:userset;mso-height-alt:1460;'>
+    <td class="xl71" height="377.33" rowspan="5" style='height:283.00pt;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>运营公司营销部</td>
+    <td class="xl71" x:str>笔记本电脑</td>
+    <td class="xl72" x:str><span style='mso-spacerun:yes;'>&nbsp;</span>联想（ThinkPad） E470 20H1A002CD i5-7200U/Windows 10 家庭/8GB/500GB/FHD/石墨黑</td>
+    <td class="xl71" x:str>4台</td>
+    <td class="xl71"></td>
+    <td class="xl73"></td>
+   </tr>
+   <tr height="64" style='height:48.00pt;mso-height-source:userset;mso-height-alt:960;'>
+    <td class="xl71" x:str>台式电脑</td>
+    <td class="xl77" x:str>联想天逸510PRO I5-7400/4G内存/1TB硬盘/2G独显/WIFI【19.5LED屏】<br/></td>
+    <td class="xl71" x:str>2台</td>
+    <td class="xl71"></td>
+    <td class="xl73"></td>
+   </tr>
+   <tr height="66.67" style='height:50.00pt;mso-height-source:userset;mso-height-alt:1000;'>
+    <td class="xl71" x:str>台式电脑</td>
+    <td class="xl77" x:str>联想拯救者 刃7000 分体台式机 黑色 90JC0003CP</td>
+    <td class="xl71" x:str>1台</td>
+    <td class="xl71"></td>
+    <td class="xl73"></td>
+   </tr>
+   <tr height="66.67" style='height:50.00pt;mso-height-source:userset;mso-height-alt:1000;'>
+    <td class="xl71" x:str>照相机</td>
+    <td class="xl77" x:str>佳能（Canon）EOS 5D Mark IV 套机加 75MM 中镜头</td>
+    <td class="xl71" x:str>1台</td>
+    <td class="xl71"></td>
+    <td class="xl73"></td>
+   </tr>
+   <tr height="82.67" style='height:62.00pt;mso-height-source:userset;mso-height-alt:1240;'>
+    <td class="xl71" x:str>小打印</td>
+    <td class="xl72" x:str>惠普M126NW 无线WIFI打印<span style='mso-spacerun:yes;'>&nbsp;</span></td>
+    <td class="xl71" x:str>1台</td>
+    <td class="xl71"></td>
+    <td class="xl73"></td>
+   </tr>
+   <tr height="60" style='height:45.00pt;mso-height-source:userset;mso-height-alt:900;'>
+    <td class="xl71" height="180" rowspan="3" style='height:135.00pt;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>总部工程部</td>
+    <td class="xl71" x:str>挂式空调</td>
+    <td class="xl72" x:str>格力大1.5匹</td>
+    <td class="xl71" x:str>1台</td>
+    <td class="xl71"></td>
+    <td class="xl73"></td>
+   </tr>
+   <tr height="60" style='height:45.00pt;mso-height-source:userset;mso-height-alt:900;'>
+    <td class="xl71" x:str>移动硬盘</td>
+    <td class="xl72" x:str>1TB</td>
+    <td class="xl71" x:str>1个</td>
+    <td class="xl71"></td>
+    <td class="xl73"></td>
+   </tr>
+   <tr height="60" style='height:45.00pt;mso-height-source:userset;mso-height-alt:900;'>
+    <td class="xl71" x:str>办公电脑</td>
+    <td class="xl72" x:str>联想天逸510PRO I5-7400/4G内存/1TB硬盘/2G独显/WIFI【19.5LED屏】<br/></td>
+    <td class="xl71" x:str>3台</td>
+    <td class="xl71"></td>
+    <td class="xl73"></td>
+   </tr>
+   <tr height="192" style='height:144.00pt;mso-height-source:userset;mso-height-alt:2880;'>
+    <td class="xl66" height="192" colspan="6" style='height:144.00pt;mso-ignore:colspan;'></td>
+   </tr>
+   <![if supportMisalignedColumns]>
+    <tr width="0" style='display:none;'>
+     <td width="135" style='width:101;'></td>
+     <td width="151" style='width:113;'></td>
+     <td width="290" style='width:218;'></td>
+     <td width="80" style='width:60;'></td>
+     <td width="111" style='width:83;'></td>
+     <td width="125" style='width:94;'></td>
+     <td width="120" style='width:90;'></td>
+     <td width="120" style='width:90;'></td>
+    </tr>
+   <![endif]>
+  </table>
+ </body>
+</html>
